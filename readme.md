@@ -277,6 +277,7 @@
 - [cli-cursor](https://github.com/sindresorhus/cli-cursor) - Toggle the CLI cursor.
 - [columnify](https://github.com/timoxley/columnify) - Create text-based columns suitable for console output. Supports cell wrapping.
 - [cli-columns](https://github.com/shannonmoeller/cli-columns) - Columnated unicode and ansi-safe text lists.
+- [figlet](https://github.com/patorjk/figlet.js) - Figlet implementation in javascript for ASCII font rendering.
 - [cfonts](https://github.com/dominikwilkowski/cfonts) - Sexy ASCII fonts for the console.
 - [multispinner](https://github.com/codekirei/node-multispinner) - Multiple, simultaneous, individually controllable CLI spinners.
 - [omelette](https://github.com/f/omelette) - Shell autocompletion helper.
@@ -307,7 +308,7 @@
 ### Hardware
 
 - [johnny-five](https://github.com/rwaldron/johnny-five) - Firmata based Arduino Framework.
-- [serialport](https://github.com/voodootikigod/node-serialport) - Access serial ports for reading and writing.
+- [serialport](https://github.com/serialport/node-serialport) - Access serial ports for reading and writing.
 - [usb](https://github.com/nonolith/node-usb) - USB library.
 - [i2c-bus](https://github.com/fivdi/i2c-bus) - I2C serial bus access.
 - [onoff](https://github.com/fivdi/onoff) - GPIO access and interrupt detection.
